@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  color: #fff;
+  padding: 1.2rem 3rem;
+  align-items: center;
+  background: blueviolet;
+  justify-content: space-between;
+}
+
+.header h1 {
+  display: flex;
+}
+
+.header h1 img {
+  width: 2.5rem;
+  margin: 0 0.5rem;
+}
+
+.dark {
+  background: #333;
+}
+
+.header img {
+  width: 2rem;
+  cursor: pointer;
+}

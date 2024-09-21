@@ -1,0 +1,34 @@
+.button {
+  border: none;
+  outline: none;
+  color: #fff;
+  margin: 0.5rem;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  transition: all 0.5s ease;
+}
+
+.button:hover {
+  transform: translateY(-10%);
+}
+
+.uppercase {
+  background: blue;
+}
+
+.lowercase {
+  background: slateblue;
+}
+
+.capitalize {
+  background: crimson;
+}
+
+.clearAll {
+  background: red;
+}
+
+.clearSpaces {
+  background: orange;
+}

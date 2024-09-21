@@ -1,0 +1,13 @@
+.navigation {
+  width: 90vw;
+  display: grid;
+  margin: 1rem auto;
+  align-items: center;
+  grid-template-columns: 2fr 1fr;
+}
+
+.navigation span:nth-child(2) {
+  text-align: right;
+  font-size: 0.8rem;
+  padding: 0 1rem;
+}
